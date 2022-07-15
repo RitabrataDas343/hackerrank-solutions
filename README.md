@@ -1,3 +1,6 @@
 # Hackerrank Solutions
 
-This provides solutions to Hackerank problems solved by me.
+C - 4 Star
+C++ - 5 Star
+Python - 5 Star
+Java - 3 Star
