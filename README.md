@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td>10 Days of Statistics</td>
-    <td> </td>
+    <td>⭐⭐⭐⭐⭐</td>
   </tr>
 </table> 
 </div>
