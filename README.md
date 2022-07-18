@@ -12,43 +12,43 @@
   </tr>
   <tr>
     <td>C</td>
-    <td>Legendary Grandmaster</td>
+    <td>⭐⭐⭐⭐</td>
   </tr>
   <tr>
     <td>C++</td>
-    <td>International Grandmaster</td>
+    <td>⭐⭐⭐⭐⭐</td>
   </tr>
   <tr>
     <td>Java</td>
-    <td>Grandmaster</td>
+    <td>⭐⭐⭐</td>
   </tr>
   <tr>
     <td>Python</td>
-    <td>International Master</td>
+    <td>⭐⭐⭐⭐⭐</td>
   </tr>
   <tr>
     <td>Problem Solving</td>
-    <td>Master</td>
+    <td>⭐⭐⭐⭐⭐</td>
   </tr>
   <tr>
     <td>SQL</td>
-    <td>Candidate Master</td>
+    <td>⭐</td>
   </tr>
   <tr>
     <td>Ruby</td>
-    <td>Expert</td>
+    <td>⭐</td>
   </tr>
   <tr>
     <td>30 Days of Code</td>
-    <td>Specialist</td>
+    <td>⭐⭐⭐⭐</td>
   </tr>
   <tr>
     <td>10 Days of JS</td>
-    <td>Pupil</td>
+    <td>⭐⭐⭐</td>
   </tr>
   <tr>
     <td>10 Days of Statistics</td>
-    <td>Newbie</td>
+    <td> </td>
   </tr>
 </table> 
 </div>
