@@ -1,49 +1,53 @@
-# Hackerrank Solutions
+<div align = "center">
+<img src="https://user-images.githubusercontent.com/76585827/179482836-6bb4002e-132e-468e-acd2-97377a3d86a9.svg" height="100px"></img>
+</div>
+<br>
+
 
 <div align="center">
  <table>
   <tr>
-    <th>Domain</th>
-    <th>Title</th>
+    <th><strong>Domain</strong></th>
+    <th><strong>Stars</strong></th>
   </tr>
   <tr>
-    <td>2900+</td>
+    <td>C</td>
     <td>Legendary Grandmaster</td>
   </tr>
   <tr>
-    <td>2600 — 2899</td>
+    <td>C++</td>
     <td>International Grandmaster</td>
   </tr>
   <tr>
-    <td>2400 — 2599</td>
+    <td>Java</td>
     <td>Grandmaster</td>
   </tr>
   <tr>
-    <td>2300 — 2399</td>
+    <td>Python</td>
     <td>International Master</td>
   </tr>
   <tr>
-    <td>2200 — 2299</td>
+    <td>Problem Solving</td>
     <td>Master</td>
   </tr>
   <tr>
-    <td>1900 — 2199</td>
+    <td>SQL</td>
     <td>Candidate Master</td>
   </tr>
   <tr>
-    <td>1600 — 1899</td>
+    <td>Ruby</td>
     <td>Expert</td>
   </tr>
   <tr>
-    <td>1400 — 1599</td>
+    <td>30 Days of Code</td>
     <td>Specialist</td>
   </tr>
   <tr>
-    <td>1200 — 1399</td>
+    <td>10 Days of JS</td>
     <td>Pupil</td>
   </tr>
   <tr>
-    <td>0 — 1199</td>
+    <td>10 Days of Statistics</td>
     <td>Newbie</td>
   </tr>
 </table> 
