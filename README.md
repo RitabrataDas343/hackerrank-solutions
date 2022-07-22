@@ -40,11 +40,11 @@
   </tr>
   <tr>
     <td>30 Days of Code</td>
-    <td>⭐⭐⭐⭐</td>
+    <td>⭐⭐⭐⭐⭐</td>
   </tr>
   <tr>
     <td>10 Days of JS</td>
-    <td>⭐⭐⭐</td>
+    <td>⭐⭐⭐⭐⭐</td>
   </tr>
   <tr>
     <td>10 Days of Statistics</td>
