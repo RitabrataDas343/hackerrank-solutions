@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td>C</td>
-    <td>⭐⭐⭐⭐</td>
+    <td>⭐⭐⭐⭐⭐</td>
   </tr>
   <tr>
     <td>C++</td>
