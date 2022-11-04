@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Problem Solving</td>
-    <td>⭐⭐⭐⭐⭐</td>
+    <td>⭐⭐⭐⭐⭐⭐</td>
   </tr>
   <tr>
     <td>SQL</td>
