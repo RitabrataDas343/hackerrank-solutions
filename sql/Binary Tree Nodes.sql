@@ -1,0 +1,8 @@
+SELECT N, 
+    CASE
+        WHEN N = (SELECT N FROM BST WHERE P IS NULL) THEN 'Root'
+        WHEN N IN (SELECT P FROM BST GROUP BY P) THEN 'Inner'
+        ELSE 'Leaf'
+    END 
+FROM BST
+ORDER BY N;

@@ -11,8 +11,8 @@
     <th><strong>Stars</strong></th>
   </tr>
   <tr>
-    <td>C</td>
-    <td>⭐⭐⭐⭐⭐</td>
+    <td>Problem Solving</td>
+    <td>⭐⭐⭐⭐⭐⭐</td>
   </tr>
   <tr>
     <td>C++</td>
@@ -27,18 +27,6 @@
     <td>⭐⭐⭐⭐⭐</td>
   </tr>
   <tr>
-    <td>Problem Solving</td>
-    <td>⭐⭐⭐⭐⭐⭐</td>
-  </tr>
-  <tr>
-    <td>SQL</td>
-    <td>⭐⭐⭐⭐</td>
-  </tr>
-  <tr>
-    <td>Ruby</td>
-    <td>⭐⭐⭐⭐⭐</td>
-  </tr>
-  <tr>
     <td>30 Days of Code</td>
     <td>⭐⭐⭐⭐⭐</td>
   </tr>
@@ -48,6 +36,18 @@
   </tr>
   <tr>
     <td>10 Days of Statistics</td>
+    <td>⭐⭐⭐⭐⭐</td>
+  </tr>
+  <tr>
+    <td>SQL</td>
+    <td>⭐⭐⭐⭐⭐</td>
+  </tr>
+  <tr>
+    <td>C</td>
+    <td>⭐⭐⭐⭐⭐</td>
+  </tr>
+  <tr>
+    <td>Ruby</td>
     <td>⭐⭐⭐⭐⭐</td>
   </tr>
 </table> 
