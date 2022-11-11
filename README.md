@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td>SQL</td>
-    <td>⭐</td>
+    <td>⭐⭐⭐⭐</td>
   </tr>
   <tr>
     <td>Ruby</td>
